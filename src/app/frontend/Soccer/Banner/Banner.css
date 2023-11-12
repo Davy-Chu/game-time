@@ -1,0 +1,27 @@
+
+.banner{
+    left:0px;
+    margin:0px;
+    padding:0px;
+    background: url('../../../images/bannerbackground.jpg') no-repeat;
+    background-size:cover;
+    background-position:center;
+    width:98.7vw;
+    height:615px;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    /* border:1px solid red; */
+}
+
+.banner-title {
+    margin-right:180px;
+    padding:0px;
+    border:1px solid red;
+}
+
+.live-games{
+    margin-left:180px;
+    border:1px solid red;
+}

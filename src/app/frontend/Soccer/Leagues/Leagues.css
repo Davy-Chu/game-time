@@ -1,0 +1,12 @@
+.leagues{
+    background-color:#F5F5F5;
+    /* height:60px; */
+}
+.leagues-title{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:30px;
+    font-family: 'Karla';
+    height:60px;
+}

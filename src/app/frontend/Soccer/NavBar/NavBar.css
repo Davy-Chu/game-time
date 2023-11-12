@@ -1,0 +1,17 @@
+.navbar{
+    background-color:#C63939;
+    height:50px;
+    /* padding:12px; */
+}
+.home{
+    height:50px;
+    width:75px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.home:hover{
+    background-color:#b63432;
+    cursor:pointer;
+    
+}
